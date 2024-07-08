@@ -1,0 +1,133 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "D:/Users/Igory/Desktop/\u0412\u0441\u0435 \u0441 \u0440\u0430\u0431\u043e\u0447\u0435\u0433\u043e \u0441\u0442\u043e\u043b\u0430/\u0414\u043b\u044f \u0442\u0435\u0441\u0442\u043e\u0432/Tests.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "loglevel",
+   "value": "WARN"
+  },
+  {
+   "optionDest": "debug",
+   "value": "all"
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "_overlapped"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "asyncio"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tornado"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pywebio"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "logging.handlers"
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Users/Igory/venv/Lib/site-packages/tornado;tornado/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "html"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "json"
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Users/Igory/venv/Lib/site-packages/pywebio;pywebio/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Users/Igory/venv/Lib/site-packages/user_agents;user_agents/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Users/Igory/venv/Lib/site-packages/ua_parser;ua_parser/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "__future__"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "http.cookies"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
